@@ -1,0 +1,8 @@
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Nvidia\Desktop\POOF_00238219\Parcial\Parcial\Parcial\obj\Debug\Parcial.pdb
