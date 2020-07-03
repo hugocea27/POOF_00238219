@@ -7,11 +7,27 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Parcial" t="IncludeRecursive">
         <e p="App.config" t="Include" />
+        <e p="Bienvenida.cs" t="Include" />
+        <e p="Bienvenida.Designer.cs" t="Include" />
+        <e p="Bienvenida.resx" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Form1.cs" t="Include" />
-        <e p="Form1.Designer.cs" t="Include" />
+        <e p="ConexionBD.cs" t="Include" />
+        <e p="Consultas.cs" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PanelAdmin.cs" t="Include" />
+        <e p="PanelAdmin.Designer.cs" t="Include" />
+        <e p="PanelAdmin.resx" t="Include" />
+        <e p="PanelVigilante.cs" t="Include" />
+        <e p="PanelVigilante.Designer.cs" t="Include" />
+        <e p="PanelVigilante.resx" t="Include" />
         <e p="Parcial.csproj" t="IncludeRecursive" />
+        <e p="Principal.cs" t="Include" />
+        <e p="Principal.Designer.cs" t="Include" />
+        <e p="Principal.resx" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
